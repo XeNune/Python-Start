@@ -1,8 +1,8 @@
 num = input("Как тебя зовут?: ")
-if num == "Alexandr":
+if num == "Alexandr": # == знак тождества
     print("Приветсвую")
-age = int (input("Сколько тебе лет?"))
-if age > 18:
+age = int (input("Сколько тебе лет?")) # int - обозначает целые числа
+if age > 18:  # if переменная ... то ... elif переменная ... то ... 
     print("Aga")
 elif age < 18:
     print("Skoro")
