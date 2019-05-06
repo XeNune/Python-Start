@@ -6,4 +6,3 @@ if age > 18:  # if переменная ... то ... elif переменная .
     print("Aga")
 elif age < 18:
     print("Skoro")
-    
